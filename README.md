@@ -8,5 +8,5 @@
 
 # Frontend -> front
 <a href="https://github.com/ne30/xlsx_test/tree/main/front">Front</a> <br>
--> Install pacakages i.e. pip install <br>
+-> Install pacakages i.e. npm install <br>
 -> npm start <br>
